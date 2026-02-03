@@ -1,0 +1,16 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
+notebook
+shap
+xgboost
+lightgbm
+imbalanced-learn
+scipy
+statsmodels
+requests
+beautifulsoup4
+lxml

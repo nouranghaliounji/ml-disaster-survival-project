@@ -1,0 +1,16 @@
+# Environments
+.venv/
+__pycache__/
+*.pyc
+
+# Data (large files)
+data/raw/*
+data/external/*
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
